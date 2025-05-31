@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment folders
+env/
+venv/
+.venv/
+ENV/
+.Python
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter
+.ipynb_checkpoints
+
+# Test coverage reports
+coverage.*
+*.cover
+.hypothesis/
+.tox/
+
+# Compiled objects
+*.so
+*.dll
+*.out
+*.o
+*.a
+
+# Misc
+*.swp
+*.bak
+*.tmp
+
+# Secret stuff (if any)
+.env
