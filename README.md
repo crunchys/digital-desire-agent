@@ -23,6 +23,15 @@ This project explores how a simple digital entity can exhibit *desire-like* beha
 
 ---
 
+## 📈 Roadmap
+
+- [ ] Add multiple motivational drives (e.g. energy, exploration)  
+- [ ] Connect to Lava or Loihi simulation environment  
+- [ ] Implement reward-weighted STDP-style learning  
+- [ ] Add logging & visualization of agent's state over time
+
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
@@ -52,15 +61,6 @@ out of or in connection with the software or the use or other dealings in the so
 Independent researcher and developer  
 📍 Rostov-on-Don, Russia  
 📧 [nickhughes412@gmail.com](mailto:nickhughes412@gmail.com)
-
----
-
-## 📈 Roadmap
-
-- [ ] Add multiple motivational drives (e.g. energy, exploration)  
-- [ ] Connect to Lava or Loihi simulation environment  
-- [ ] Implement reward-weighted STDP-style learning  
-- [ ] Add logging & visualization of agent's state over time
 
 ---
 
