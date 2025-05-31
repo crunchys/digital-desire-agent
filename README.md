@@ -23,6 +23,15 @@ This project explores how a simple digital entity can exhibit *desire-like* beha
 
 ---
 
+## 📈 Roadmap
+
+- [ ] Add multiple motivational drives (e.g. energy, exploration)  
+- [ ] Connect to Lava or Loihi simulation environment  
+- [ ] Implement reward-weighted STDP-style learning  
+- [ ] Add logging & visualization of agent's state over time
+
+---
+
 ## 📦 Installation
 
 Clone the repo and run:
